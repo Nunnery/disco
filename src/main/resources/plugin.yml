@@ -1,3 +1,4 @@
 name: @NAME@
 version: @VERSION@
 main: com.tealcube.minecraft.bukkit.disco.DiscoPlugin
+load: STARTUP
